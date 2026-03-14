@@ -70,7 +70,7 @@ Insights:
 
 ## 6️⃣ Learning Mode Analysis
 
-![Learning Mode](images/learning_mode_analysis.png)
+![Learning Mode](images/learning_mode.png)
 
 Insights:
 
@@ -81,7 +81,7 @@ Insights:
 
 ## 7️⃣ Regional Analysis
 
-![Region Analysis](images/region_analysis.png)
+![Region Analysis](images/page 7.png)
 
 Insights:
 
