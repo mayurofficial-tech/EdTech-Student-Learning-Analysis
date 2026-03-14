@@ -81,7 +81,7 @@ Insights:
 
 ## 7️⃣ Regional Analysis
 
-![Region Analysis](images/page 7.png)
+![Region Analysis](images/page7.png)
 
 Insights:
 
